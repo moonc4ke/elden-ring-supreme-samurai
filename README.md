@@ -1,27 +1,45 @@
 # Elden Ring – Supreme Samurai Build Checklist (Base Game + DLC)
 
-A continuous Samurai-specific checklist to follow **alongside** the full walkthroughs.  
-Use this file to make sure you **don’t miss anything essential** for the Supreme Samurai build.  
+## Samurai Gear Quick Reference
+⚔️ Use this section if you only need to check **where to grab core Samurai build items** without scrolling through the full checklist.  
+Full step-by-step locations are still in the collapsible sections below.
 
-- ✅ Focus: **Nagakiba + Grease usage**  
-- ✅ Armor: **Nox Swordstress Chest, White Reed Gauntlets, Ronin’s Greaves, Iron Kasa**  
-- ✅ Talismans: **Shard of Alexander, Dragoncrest Greatshield, Great-Jar’s Arsenal, Bull-Goat’s Talisman**  
-- ✅ Upgrades: Inline milestones (`[UPGRADE]`)  
-- ✅ Grease recs inside boss notes  
-- ✅ DLC steps merged into timeline  
-- 🔗 Links back to [Full Walkthrough](https://roundtablehold.net/checklists/walkthrough.html) & [DLC Walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html) for filler content.
+### Weapon
+- **Nagakiba** → Yura’s questline (Seaside Ruins → Murkwater → Altus Plateau). If quest missed, drops when Yura dies or from Shabriri.
+- [UPGRADE] +3 by Margit, +6 by Godrick, +12 by Rennala, +18 by Morgott, +21 by Fire Giant, +25 by Malenia.
+
+### Armor
+- **Iron Kasa** → Isolated Merchant (Dragonbarrow)  
+- **Ronin’s Greaves** → End of Yura’s quest (Ronin Shabriri takeover)  
+- **Nox Swordstress Armor** → Farm Nox Swordstresses (Ainsel River)  
+- **White Reed Gauntlets** → Spiritcaller’s Cave (Mountaintops of the Giants)  
+
+### Talismans
+- **Shard of Alexander** → Complete Iron Fist Alexander’s quest (Radahn → Liurnia → Mountaintops → Farum Azula).  
+- **Dragoncrest Greatshield Talisman** → Elphael, Haligtree (hidden room behind imp statue).  
+- **Great-Jar’s Arsenal** → Defeat the 3 Great-Jar duelists (Siofra/Dragonbarrow).  
+- **Bull-Goat’s Talisman** → Kill Great Horned Tragoth (quest invasion, Volcano Manor).
+
+### Consumables
+- **Blood Grease** → Craft with *Bloodrose + Root Resin + Beast Blood*.  
+  - Bloodrose farm: Church of Inhibition (Liurnia).  
+  - Root Resin farm: near Erdtree roots (many).  
+  - Beast Blood farm: wolves & bears.  
+- **Rot Grease** → Craft with Aeonian Butterflies (Caelid).  
+- **Fire Grease** → Craft with Smoldering Butterflies (Stormhill & Mt. Gelmir).  
+- **Lightning Grease** → Craft with Cracked Crystals (Altus Plateau).  
+- **Holy Grease** → Craft with Gold Fireflies (Siofra).  
+
+### Grease Recommendations (General)
+- **Blood Grease** → default, best vs. most humanoid bosses.  
+- **Fire Grease** → Erdtree Avatars, plants, beasts.  
+- **Lightning Grease** → Dragons.  
+- **Rot/Poison Grease** → Long fights vs. chunky enemies.  
+- **Holy Grease** → Revenants, undead, deathbirds.  
 
 ---
 
-## Recommended Grease Usage (General)
-- **Blood Grease** – default; synergizes with Nagakiba’s innate bleed.  
-- **Fire Grease** – use vs. Erdtree Avatars, tree spirits, trolls.  
-- **Magic Grease** – use vs. Crystalians and enemies weak to magic.  
-- **Rot/Poison Grease** – situational (rot-heavy bosses or regen fights).  
-- **Holy Grease** – vs. undead-type enemies, revenants, deathbirds.  
-- **Lightning Grease** – vs. dragons & aquatic enemies.  
-
----
+# Checklist (Samurai-Specific, Collapsible by Region)
 
 <details>
 <summary>Limgrave</summary>
@@ -68,7 +86,6 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 <details>
 <summary>Liurnia of the Lakes</summary>
 
-- [SAMURAI] Optional: Help Thops → unlock easier sorcery pathing (not Samurai-critical).  
 - [UPGRADE] Get **Nagakiba to +12 by Rennala** (Liurnia Stones, Smithing Master Iji).  
 - Boss: **Rennala** – she staggers easily, **Blood Grease** R2 spam to stance break.  
 
@@ -126,7 +143,7 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 
 - [SAMURAI] Gather **White Reed Gauntlets** (Spiritcaller’s Cave).  
 - [UPGRADE] Nagakiba → **+21 before Fire Giant**.  
-- Boss: **Fire Giant** – high bleed resist. Use **Rot Grease** if available, otherwise **Fire Grease** ineffective → focus on Unsheathe R2 stance breaks.  
+- Boss: **Fire Giant** – high bleed resist. Use **Rot Grease** if available, otherwise focus on Unsheathe R2 stance breaks.  
 
 🔗 [Full Mountaintops walkthrough](https://roundtablehold.net/checklists/walkthrough.html#mountaintops)
 
@@ -161,7 +178,6 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 <details>
 <summary>Crumbling Farum Azula</summary>
 
-- [SAMURAI] Key fights (Beast Clergyman / Maliketh / Dragonlord Placidusax)  
 - Boss: **Maliketh** – use **Magic or Lightning Grease**. Bleed still works, but boss is aggressive.  
 - Boss: **Placidusax** – bleed-resistant; bring **Lightning Grease**.  
 
@@ -187,7 +203,6 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 <details>
 <summary>DLC – Castle Ensis / Scadu Altus</summary>
 
-- [SAMURAI] Talismans/quests → reinforce Samurai survivability.  
 - Boss: **Rellana, Twin Moon Knight** – weak to bleed. **Blood Grease recommended**.  
 - [UPGRADE] Ensure Nagakiba **+20+ before Rellana**.  
 
@@ -200,7 +215,6 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 <details>
 <summary>DLC – Shadow Keep</summary>
 
-- [SAMURAI] Choice quests not Samurai-critical, but rewards = Spirit Ashes.  
 - Boss: **Messmer the Impaler** – not bleed resistant. Use **Blood Grease**.  
 
 🔗 [Full DLC Shadow Keep walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#shadow-keep)
@@ -212,7 +226,7 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 <details>
 <summary>DLC – Jagged Peak</summary>
 
-- [SAMURAI] Boss: **Bayle the Dread** – dragon, high bleed resist. Use **Lightning Grease**.  
+- Boss: **Bayle the Dread** – dragon, high bleed resist. Use **Lightning Grease**.  
 - Reward pathing (Priestess choice) not Samurai-critical.  
 
 🔗 [Full DLC Jagged Peak walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#jagged-peak)
@@ -231,3 +245,50 @@ Use this file to make sure you **don’t miss anything essential** for the Supre
 🔗 [Full DLC Enir-Ilim walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#enir-ilim)
 
 </details>
+
+---
+
+## Supreme Samurai Build – At a Glance (Endgame)
+
+⚔️ **Core Identity**: Pure DEX bleed samurai using Nagakiba with Unsheathe, enhanced by Greases for any matchup.  
+High mobility, stance breaks, and reliable bleed pressure.
+
+### Final Weapon
+- **Nagakiba +25** (Unsheathe Ash of War, Keen infusion for max DEX scaling)
+
+### Armor
+- Head: **Iron Kasa**  
+- Chest: **Nox Swordstress Armor**  
+- Arms: **White Reed Gauntlets**  
+- Legs: **Ronin’s Greaves**
+
+### Talismans
+1. **Shard of Alexander** (boosts Unsheathe damage)  
+2. **Dragoncrest Greatshield Talisman** (max defense vs late-game bosses)  
+3. **Great-Jar’s Arsenal** (carry weight for armor balance)  
+4. **Bull-Goat’s Talisman** (poise for trading hits when needed)
+
+### Stat Priorities (approx. at lvl 150–160)
+- **Vigor**: 55 (survivability)  
+- **Dexterity**: 80 (hard cap damage scaling)  
+- **Endurance**: 25–30 (equip load + stamina)  
+- **Mind**: 15 (occasional Ash usage)  
+- Others: Base
+
+### Grease Usage (Boss Guidelines)
+- **Blood Grease**: default vs. most humanoid bosses (Malenia, Godrick, Morgott, Rellana)  
+- **Fire Grease**: Erdtree Avatars, Tree Spirits, trolls, Dancing Lion  
+- **Lightning Grease**: Dragons (Agheel, Placidusax, Bayle)  
+- **Rot/Poison Grease**: Long HP-sponge fights (Fire Giant, Mohg’s phase 1 adds)  
+- **Holy Grease**: Undead, revenants, catacombs enemies  
+
+### Playstyle
+- Use **Unsheathe R1** when you need speed.  
+- Use **Unsheathe R2** for stance breaks (3 hits staggers many bosses).  
+- Apply Grease before tough fights for massive edge.  
+- High endurance lets you wear armor without fat-rolling, but mobility is always the priority.
+
+---
+
+✅ End of Checklist  
+Use this file alongside the [Full Walkthrough](https://roundtablehold.net/checklists/walkthrough.html) and [DLC Walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html).  
