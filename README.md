@@ -1,294 +1,197 @@
-# Elden Ring – Supreme Samurai Build Checklist (Base Game + DLC)
+# Elden Ring Supreme Samurai Walkthrough
 
-## Samurai Gear Quick Reference
-⚔️ Use this section if you only need to check **where to grab core Samurai build items** without scrolling through the full checklist.  
-Full step-by-step locations are still in the collapsible sections below.
+This is the **Supreme Samurai Build Checklist**, merged with the full game + DLC walkthroughs from [RoundtableHold Base Walkthrough](https://roundtablehold.net/checklists/walkthrough.html) and [DLC Walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html).  
 
-### Weapon
-- **Nagakiba** → Yura’s questline (Seaside Ruins → Murkwater → Altus Plateau). If quest missed, drops when Yura dies or from Shabriri.
-- [UPGRADE] +3 by Margit, +6 by Godrick, +12 by Rennala, +18 by Morgott, +21 by Fire Giant, +25 by Malenia.
-
-### Armor
-- **Iron Kasa** → Isolated Merchant (Dragonbarrow)  
-- **Ronin’s Greaves** → End of Yura’s quest (Ronin Shabriri takeover)  
-- **Nox Swordstress Armor** → Farm Nox Swordstresses (Ainsel River)  
-- **White Reed Gauntlets** → Spiritcaller’s Cave (Mountaintops of the Giants)  
-
-### Talismans
-- **Shard of Alexander** → Complete Iron Fist Alexander’s quest (Radahn → Liurnia → Mountaintops → Farum Azula).  
-- **Dragoncrest Greatshield Talisman** → Elphael, Haligtree (hidden room behind imp statue).  
-- **Great-Jar’s Arsenal** → Defeat the 3 Great-Jar duelists (Siofra/Dragonbarrow).  
-- **Bull-Goat’s Talisman** → Kill Great Horned Tragoth (quest invasion, Volcano Manor).
-
-### Consumables
-- **Blood Grease** → Craft with *Bloodrose + Root Resin + Beast Blood*.  
-  - Bloodrose farm: Church of Inhibition (Liurnia).  
-  - Root Resin farm: near Erdtree roots (many).  
-  - Beast Blood farm: wolves & bears.  
-- **Rot Grease** → Craft with Aeonian Butterflies (Caelid).  
-- **Fire Grease** → Craft with Smoldering Butterflies (Stormhill & Mt. Gelmir).  
-- **Lightning Grease** → Craft with Cracked Crystals (Altus Plateau).  
-- **Holy Grease** → Craft with Gold Fireflies (Siofra).  
-
-### Grease Recommendations (General)
-- **Blood Grease** → default, best vs. most humanoid bosses.  
-- **Fire Grease** → Erdtree Avatars, plants, beasts.  
-- **Lightning Grease** → Dragons.  
-- **Rot/Poison Grease** → Long fights vs. chunky enemies.  
-- **Holy Grease** → Revenants, undead, deathbirds.  
+It ensures you don’t miss any Samurai-specific gear, stat milestones, upgrade items, or grease crafting spots while following the main walkthrough.
 
 ---
 
-# Checklist (Samurai-Specific, Collapsible by Region)
+## 📊 Stat Progression (Strict)
+
+| Level Range | Vigor | Dexterity | Endurance | Notes |
+|-------------|-------|-----------|-----------|-------|
+| 1–20        | 15    | 20        | 12        | Use Uchigatana, focus on survivability. |
+| 21–40       | 25    | 30        | 15        | Upgrade Uchigatana +6/+8, prep for Margit & Godrick. |
+| 41–60       | 30    | 40        | 20        | Transition into Nagakiba when acquired. |
+| 61–80       | 40    | 50        | 25        | Maximize Unsheathe stance breaks. |
+| 81–100      | 50    | 60        | 30        | Endgame Samurai — Nagakiba +25, all Talismans set. |
+| 100+        | 60    | 80        | 35        | DLC scaling, max bleed & mobility. |
+
+---
+
+## ⚔️ Build Core
+
+- **Weapon:** Uchigatana → [Nagakiba (late-game milestone)]  
+- **Skill:** Unsheathe (keep on Nagakiba)  
+- **Armor:** Iron Kasa, Nox Swordstress Chest, White Reed Gauntlets, Ronin’s Greaves  
+- **Talismans:** Shard of Alexander, Dragoncrest Greatshield, Great-Jar’s Arsenal, Bull-Goat’s Talisman  
+- **Playstyle:** Pure DEX bleed stance-breaker, high mobility, no shields, no spells.  
+- **Consumables:** Greases (Blood, Rot, Fire, Magic) crafted per boss weakness.  
+
+---
+
+## 🧪 Recommended Grease Usage Guide
+
+- **Blood Grease:** Default choice, stacks bleed faster. Use on most humanoid bosses (Godrick, Morgott, Radahn, Rellana, etc.).  
+- **Rot Grease:** Use on dragons, large beasts, and DLC bosses weak to rot (Bayle, Romina).  
+- **Fire Grease:** Use against undead & beast enemies (Catacombs, Bestial Sanctum, Messmer).  
+- **Magic Grease:** Use against armored knights and crystalline enemies.  
+- **Holy Grease:** Use against undead & deathroot bosses (Tibia Mariners, Ulcerated Tree Spirits).  
+
+---
+
+# 📜 Samurai Checklist (Base Game + DLC Merged)
+
+Below are collapsible sections per region.  
+Each contains **only Samurai-relevant build steps**, with links back to the main walkthrough for full quest progression.  
+
+---
 
 <details>
-<summary>Limgrave</summary>
+<summary>🟩 Limgrave</summary>
 
-- [SAMURAI] Start investing levels in **Dexterity + Vigor**. Keep Endurance secondary.  
-- [SAMURAI] Meet **Yura** at Seaside Ruins. Follow his quest, **don’t kill him**.  
-  - Progress his quest → reward is **Nagakiba**.  
-- [UPGRADE] Farm Smithing Stones (Limgrave Tunnels) → bring **Nagakiba to +3 before Margit**.  
-- [GREASE] Start farming **Bloodrose (Church of Inhibition later), Beast Blood (beasts), Root Resin (roots)** → craft **Blood Grease**.  
-- Boss: **Margit** – open with Fire Grease; swap to Blood Grease for sustained bleed pressure.  
-- [SAMURAI] Talk to Renna at Church of Elleh → Spirit Calling Bell for emergency summons.  
+- Start as **Samurai** (or any, but Samurai gives Uchigatana early).  
+- [Upgrade Milestone] Farm early **Smithing Stones [1]** at Limgrave Tunnels for Uchigatana → +3.  
+- Grab **Iron Kasa** (merchant at Isolated Merchant Shack, West Limgrave).  
+- Kill Bloody Finger Nerijus → exhaust **Yura questline** (important for Nagakiba later).  
+- [Grease] Craft **Blood Grease** from early animal/blood rose farming. Use on Margit & Godrick.  
+- Stat Goal ~Level 20: VIG 15 / DEX 20 / END 12  
 
-🔗 [Full Limgrave walkthrough](https://roundtablehold.net/checklists/walkthrough.html#limgrave)
+🔗 [Full Limgrave Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#limgrave)
 
 </details>
 
 ---
 
 <details>
-<summary>Weeping Peninsula</summary>
+<summary>🟩 Weeping Peninsula</summary>
 
-- [SAMURAI] Clear Castle Morne for runes/levels → target **Dex 25 before Stormveil**.  
-- Boss: **Leonine Misbegotten** – apply **Blood Grease** to Nagakiba for fast bleed procs.  
+- Collect **Sacred Tears & Golden Seeds** for flask sustain.  
+- Optional: Farm bats for crafting materials → **Magic Grease** recipes.  
+- [Upgrade Milestone] Farm **Smithing Stone [2]** from Weeping mining tunnels → Uchigatana +6.  
+- Stat Goal ~Level 30: VIG 20 / DEX 25 / END 13  
 
-🔗 [Full Weeping Peninsula walkthrough](https://roundtablehold.net/checklists/walkthrough.html#weeping-peninsula)
-
-</details>
-
----
-
-<details>
-<summary>Stormveil Castle</summary>
-
-- [UPGRADE] Push **Nagakiba to +6 by Godrick**.  
-- Boss: **Godrick the Grafted** – weak to bleed → stack **Blood Grease**.  
-- [SAMURAI] Deliver Chrysalid’s Memento → unlock Roderika’s Spirit upgrades (keep for later utility).  
-
-🔗 [Full Stormveil walkthrough](https://roundtablehold.net/checklists/walkthrough.html#stormveil)
+🔗 [Full Weeping Peninsula Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#weeping)
 
 </details>
 
 ---
 
 <details>
-<summary>Liurnia of the Lakes</summary>
+<summary>🟩 Roundtable Hold / Early Talismans</summary>
 
-- [UPGRADE] Get **Nagakiba to +12 by Rennala** (Liurnia Stones, Smithing Master Iji).  
-- Boss: **Rennala** – she staggers easily, **Blood Grease** R2 spam to stance break.  
+- Defeat Margit → unlock Roundtable Hold.  
+- Get **Great-Jar’s Arsenal** later (Dragonbarrow, keep in mind).  
+- Collect **Bull-Goat’s Talisman** (later in Subterranean Shunning-Grounds).  
+- Stat Goal ~Level 35: VIG 22 / DEX 28 / END 14  
 
-🔗 [Full Liurnia walkthrough](https://roundtablehold.net/checklists/walkthrough.html#liurnia)
-
-</details>
-
----
-
-<details>
-<summary>Caelid / Siofra</summary>
-
-- [SAMURAI] Acquire **Shard of Alexander** (Alexander’s quest starts in Limgrave, continues through Caelid → Radahn → Mountaintops).  
-- [GREASE] Farm Aeonian Swamp for **Rot Grease mats** (Aeonian butterflies).  
-- Boss: **Radahn** – bleed-resistant; use **Rot Grease** or **Lightning Grease**.  
-
-🔗 [Full Caelid walkthrough](https://roundtablehold.net/checklists/walkthrough.html#caelid)
+🔗 [Full Roundtable Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#roundtable)
 
 </details>
 
 ---
 
 <details>
-<summary>Altus Plateau</summary>
+<summary>🟩 Raya Lucaria / Liurnia</summary>
 
-- [SAMURAI] Progress toward **Bull-Goat’s Talisman** (through Patches / Great Horned Tragoth).  
-- [UPGRADE] Nagakiba → **+18 before Morgott**.  
-- Boss: **Morgott, the Omen King** – weak to bleed. Use **Blood Grease**.  
+- Progress Academy → Rennala.  
+- Farm Slimes & Crabs for **Grease mats** (Magic/Rot Grease).  
+- Quest: Give **second Glintstone Key** to Thops (progress Yura timeline indirectly).  
+- Stat Goal ~Level 50: VIG 25 / DEX 35 / END 16  
 
-🔗 [Full Altus walkthrough](https://roundtablehold.net/checklists/walkthrough.html#altus-plateau)
-
-</details>
-
----
-
-<details>
-<summary>Mt. Gelmir / Volcano Manor</summary>
-
-- [SAMURAI] Collect **Great-Jar’s Arsenal Talisman** (duel challenge near Siofra). Equip to carry Samurai armor set comfortably.  
-- [SAMURAI] Armor targets:  
-  - **Iron Kasa** (Isolated Merchant, Dragonbarrow)  
-  - **Ronin’s Greaves** (Yura quest conclusion)  
-  - **Nox Swordstress Armor** (Ainsel River enemies)  
-  - **White Reed Gauntlets** (Spiritcaller’s Cave, Mountaintops).  
-- Boss: **Rykard** – not bleed-friendly. Use **Fire Grease** or raw Unsheathe spam.  
-
-🔗 [Full Volcano Manor walkthrough](https://roundtablehold.net/checklists/walkthrough.html#volcano-manor)
+🔗 [Full Liurnia Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#liurnia)
 
 </details>
 
 ---
 
 <details>
-<summary>Mountaintops of the Giants</summary>
+<summary>🟩 Caelid</summary>
 
-- [SAMURAI] Gather **White Reed Gauntlets** (Spiritcaller’s Cave).  
-- [UPGRADE] Nagakiba → **+21 before Fire Giant**.  
-- Boss: **Fire Giant** – high bleed resist. Use **Rot Grease** if available, otherwise focus on Unsheathe R2 stance breaks.  
+- Important for **Bloodrose farming** (Chapel of Blood, for Blood Grease).  
+- [Upgrade Milestone] Somber Bell Bearings route unlocked here.  
+- Fight Radahn with **Blood Grease Nagakiba/Uchi** → huge bleed burst.  
+- Stat Goal ~Level 60: VIG 30 / DEX 40 / END 20  
 
-🔗 [Full Mountaintops walkthrough](https://roundtablehold.net/checklists/walkthrough.html#mountaintops)
-
-</details>
-
----
-
-<details>
-<summary>Consecrated Snowfield / Mohgwyn Palace</summary>
-
-- [SAMURAI] Farm **Albinaurics / Bloodroses** for Blood Grease.  
-- Boss: **Mohg, Lord of Blood** – bleed-immune phases. Use **Holy Grease** or Lightning for safe damage.  
-
-🔗 [Full Consecrated Snowfield walkthrough](https://roundtablehold.net/checklists/walkthrough.html#consecrated-snowfield)
+🔗 [Full Caelid Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#caelid)
 
 </details>
 
 ---
 
 <details>
-<summary>Miquella’s Haligtree</summary>
+<summary>🟩 Altus Plateau</summary>
 
-- [UPGRADE] Max Nagakiba → **+25 before Malenia**.  
-- Boss: **Malenia, Blade of Miquella** – extremely bleed-vulnerable → spam **Blood Grease** and punish her heals with fast R1 Unsheathe.  
+- Acquire **Shard of Alexander** (progress Iron Fist Alexander’s quest).  
+- Get **Dragoncrest Greatshield Talisman** (endgame area — note location).  
+- [Upgrade Milestone] Stones [5–6] for Nagakiba once acquired.  
+- Stat Goal ~Level 70: VIG 35 / DEX 45 / END 22  
 
-🔗 [Full Haligtree walkthrough](https://roundtablehold.net/checklists/walkthrough.html#haligtree)
-
-</details>
-
----
-
-<details>
-<summary>Crumbling Farum Azula</summary>
-
-- Boss: **Maliketh** – use **Magic or Lightning Grease**. Bleed still works, but boss is aggressive.  
-- Boss: **Placidusax** – bleed-resistant; bring **Lightning Grease**.  
-
-🔗 [Full Farum Azula walkthrough](https://roundtablehold.net/checklists/walkthrough.html#crumbling-farum-azula)
+🔗 [Full Altus Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#altus)
 
 </details>
 
 ---
 
 <details>
-<summary>DLC – Gravesite Plains → Belurat</summary>
+<summary>🟩 Nagakiba Acquisition</summary>
 
-- [SAMURAI] Begin DLC → continue as Dex build.  
-- Boss: **Dancing Lion** – weak to fire. Use **Fire Grease**.  
-- [UPGRADE] Bring Nagakiba at least **+15 before DLC bosses**.  
+- Continue **Yura’s questline** until he dies.  
+- Loot **Nagakiba** (massive range katana, replaces Uchigatana).  
+- Infuse with **Unsheathe Ash of War**.  
+- [Upgrade Milestone] Immediately upgrade Nagakiba using Bell Bearings route.  
+- Stat Goal ~Level 80: VIG 40 / DEX 50 / END 25  
 
-🔗 [Full DLC Gravesite Plains walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#gravesite-plain)
-
-</details>
-
----
-
-<details>
-<summary>DLC – Castle Ensis / Scadu Altus</summary>
-
-- Boss: **Rellana, Twin Moon Knight** – weak to bleed. **Blood Grease recommended**.  
-- [UPGRADE] Ensure Nagakiba **+20+ before Rellana**.  
-
-🔗 [Full DLC Castle Ensis walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#castle-ensis)
+🔗 [Full Yura Questline](https://roundtablehold.net/checklists/walkthrough.html#yura)
 
 </details>
 
 ---
 
 <details>
-<summary>DLC – Shadow Keep</summary>
+<summary>🟩 Mountaintops / Endgame</summary>
 
-- Boss: **Messmer the Impaler** – not bleed resistant. Use **Blood Grease**.  
+- Use **Rot Grease** for Fire Giant, Beasts, DLC rot-weak bosses.  
+- Farm Somber [7–9], Stones [7–8] for Nagakiba → +18/+20.  
+- Talismans set: **Alexander, Dragoncrest, Bull-Goat, Great-Jar**.  
+- Stat Goal ~Level 100: VIG 50 / DEX 60 / END 30  
 
-🔗 [Full DLC Shadow Keep walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#shadow-keep)
-
-</details>
-
----
-
-<details>
-<summary>DLC – Jagged Peak</summary>
-
-- Boss: **Bayle the Dread** – dragon, high bleed resist. Use **Lightning Grease**.  
-- Reward pathing (Priestess choice) not Samurai-critical.  
-
-🔗 [Full DLC Jagged Peak walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#jagged-peak)
+🔗 [Full Mountaintops Walkthrough](https://roundtablehold.net/checklists/walkthrough.html#mountaintops)
 
 </details>
 
 ---
 
 <details>
-<summary>DLC – Late Game / Enir-Ilim</summary>
+<summary>🟥 DLC Integrated Steps</summary>
 
-- [UPGRADE] Nagakiba should remain **maxed +25**.  
-- Boss: **Romina, Saint of the Bud** – rot-based → use **Blood or Fire Grease**.  
-- Boss: **Final DLC Boss** – prepare Blood Grease & Lightning Grease for flexibility.  
+- Early Gravesite Plains → craft **Fire Grease** for Dancing Lion.  
+- Belurat Settlement: Get **Crusade Insignia** (DEX synergy).  
+- Gravesite South Coast: Rot Grease mats farming.  
+- Scadu Altus: Acquire multiple **Forager Cookbooks** (unlock Greases).  
+- Shadow Keep: Upgrade milestone → Stones [7–9] for late Nagakiba scaling.  
+- Igon Quest: **Dragon-Hunter’s Great Katana** (optional Dex katana backup).  
+- Endgame DLC bosses (Messmer, Romina, Bayle): Use **Rot/Blood Grease** as per weakness.  
+- Stat Goal ~Level 150+: VIG 60 / DEX 80 / END 35 (max Samurai build).  
 
-🔗 [Full DLC Enir-Ilim walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html#enir-ilim)
+🔗 [Full DLC Walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html)
 
 </details>
 
 ---
 
-## Supreme Samurai Build – At a Glance (Endgame)
+# ✅ Final Samurai Build Checklist
 
-⚔️ **Core Identity**: Pure DEX bleed samurai using Nagakiba with Unsheathe, enhanced by Greases for any matchup.  
-High mobility, stance breaks, and reliable bleed pressure.
-
-### Final Weapon
-- **Nagakiba +25** (Unsheathe Ash of War, Keen infusion for max DEX scaling)
-
-### Armor
-- Head: **Iron Kasa**  
-- Chest: **Nox Swordstress Armor**  
-- Arms: **White Reed Gauntlets**  
-- Legs: **Ronin’s Greaves**
-
-### Talismans
-1. **Shard of Alexander** (boosts Unsheathe damage)  
-2. **Dragoncrest Greatshield Talisman** (max defense vs late-game bosses)  
-3. **Great-Jar’s Arsenal** (carry weight for armor balance)  
-4. **Bull-Goat’s Talisman** (poise for trading hits when needed)
-
-### Stat Priorities (approx. at lvl 150–160)
-- **Vigor**: 55 (survivability)  
-- **Dexterity**: 80 (hard cap damage scaling)  
-- **Endurance**: 25–30 (equip load + stamina)  
-- **Mind**: 15 (occasional Ash usage)  
-- Others: Base
-
-### Grease Usage (Boss Guidelines)
-- **Blood Grease**: default vs. most humanoid bosses (Malenia, Godrick, Morgott, Rellana)  
-- **Fire Grease**: Erdtree Avatars, Tree Spirits, trolls, Dancing Lion  
-- **Lightning Grease**: Dragons (Agheel, Placidusax, Bayle)  
-- **Rot/Poison Grease**: Long HP-sponge fights (Fire Giant, Mohg’s phase 1 adds)  
-- **Holy Grease**: Undead, revenants, catacombs enemies  
-
-### Playstyle
-- Use **Unsheathe R1** when you need speed.  
-- Use **Unsheathe R2** for stance breaks (3 hits staggers many bosses).  
-- Apply Grease before tough fights for massive edge.  
-- High endurance lets you wear armor without fat-rolling, but mobility is always the priority.
+- [x] Start Samurai → Uchigatana +3 (Limgrave Tunnels).  
+- [x] Iron Kasa (early armor piece).  
+- [x] Farm Blood Grease early, craft regularly.  
+- [x] Upgrade Uchigatana +6 (Weeping).  
+- [x] Collect Talismans (Alexander, Dragoncrest, Great-Jar, Bull-Goat).  
+- [x] Acquire Nagakiba (Yura questline).  
+- [x] Upgrade Nagakiba +25 endgame.  
+- [x] Use Grease per boss weakness.  
+- [x] Stat progression to VIG 60 / DEX 80 / END 35.  
+- [x] Beat base game + DLC with Supreme Samurai mobility bleed build.  
 
 ---
 
-✅ End of Checklist  
-Use this file alongside the [Full Walkthrough](https://roundtablehold.net/checklists/walkthrough.html) and [DLC Walkthrough](https://roundtablehold.net/checklists/dlc_walkthrough.html).  
