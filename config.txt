@@ -1,0 +1,1 @@
+{"current":"Default Profile","darksouls3_profiles":{"Default Profile":{"checklistData":{"playthrough_0":true,"graces_0":true},"collapsed":{},"hide_completed":false,"journey":1,"style":"Standard","map_settings":{}}}}
